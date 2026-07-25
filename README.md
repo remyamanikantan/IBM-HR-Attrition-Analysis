@@ -3,6 +3,11 @@
 ## Overview
 An end-to-end HR analytics project built using **SQL Server** and **Power BI** to identify key factors driving employee attrition. The project includes data cleaning, SQL analysis, DAX measures, and an interactive executive dashboard.
 
+## Dataset
+This project uses the **IBM HR Analytics Employee Attrition & Performance** dataset, publicly available on Kaggle. The dataset contains employee demographic, job-related, compensation, and satisfaction information used to analyze the factors contributing to employee attrition.
+
+Source: Kaggle – IBM HR Analytics Employee Attrition & Performance
+
 ## Tools Used
 - SQL Server
 - Power BI
